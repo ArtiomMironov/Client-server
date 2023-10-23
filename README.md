@@ -51,7 +51,8 @@ Steps to reproduce:
  42. Change the GPS location a second time. Demonstrate on Google Maps.
  43. Find the interface to change the User-Agent.
  44. Substitute a different User-Agent. 
- 45.Send the request to http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
+ 45.Send the request to
+http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
  46.Check if your native User-Agent has changed to the new, substituted User-Agent.
 47.Create your own User-Agent.
 48.Repeat steps 45, 46.
