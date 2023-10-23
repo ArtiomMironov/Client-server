@@ -53,9 +53,9 @@ Steps to reproduce:
  44. Substitute a different User-Agent. 
  45.Send the request to http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
  46.Check if your native User-Agent has changed to the new, substituted User-Agent.
- 47.Create your own User-Agent.
- 48.Repeat steps 45, 46.
- 49.Find an interface to change/add Throttling parameters.
- 50.Create your bad connection parameters and test how the page will load.
- 51.Find the interface to change/add Locations parameters.
- 52.Check on Google map how the location changes are applied.
+47.Create your own User-Agent.
+48.Repeat steps 45, 46.
+49.Find an interface to change/add Throttling parameters.
+50.Create your bad connection parameters and test how the page will load.
+51.Find the interface to change/add Locations parameters.
+52.Check on Google map how the location changes are applied.
