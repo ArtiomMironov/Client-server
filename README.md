@@ -48,7 +48,7 @@ Steps to reproduce:
  39. Take and save a screenshot of the visible part of the website page.
  40. Take and save a screenshot of the entire site.
  41. Change the GPS location.Demonstrate on the Google maps site.
- 42. 42.Change the GPS location a second time. Demonstrate on Google Maps.
+ 42. Change the GPS location a second time. Demonstrate on Google Maps.
  43. Find the interface to change the User-Agent.
  44. Substitute a different User-Agent. 
  45.Send the request to http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
